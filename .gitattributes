@@ -1,0 +1,1 @@
+nllb-200_600M_int8_ct2/nllb-200-distilled-600M-int8/model.bin filter=lfs diff=lfs merge=lfs -text
